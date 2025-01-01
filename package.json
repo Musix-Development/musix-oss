@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.16.3",
+    "discord.js": "^14.17.0",
     "@discordjs/voice": "^0.18.0",
     "@discordjs/opus": "^0.9.0",
     "ms": "^2.1.3",
