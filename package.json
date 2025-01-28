@@ -19,7 +19,7 @@
   },
   "homepage": "https://musix-org.github.io/",
   "dependencies": {
-    "@discordjs/opus": "^0.9.0",
+    "@discordjs/opus": "^0.10.0",
     "discord-webhook-node": "^1.1.8",
     "discord.js": "^14.17.3",
     "dotenv": "^16.4.7",
